@@ -14,7 +14,7 @@ import os
 # APNA TOKEN YAHAN DAALO
 # BotFather se mila hua token
 # =============================================
-BOT_TOKEN = "APNA_BOT_TOKEN_YAHAN_DAALO"
+BOT_TOKEN = "8875225173:AAFEut8CnGJen-HfYlVY9najrqjXjxC-94E"
 
 # Aapki game ki URL (jahan HTML file host ki hai)
 # Agar local server chal raha ho: "http://localhost:5000/game"
