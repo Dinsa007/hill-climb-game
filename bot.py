@@ -19,7 +19,7 @@ BOT_TOKEN = "8875225173:AAFEut8CnGJen-HfYlVY9najrqjXjxC-94E"
 # Aapki game ki URL (jahan HTML file host ki hai)
 # Agar local server chal raha ho: "http://localhost:5000/game"
 # Ya koi free hosting jaise: GitHub Pages, Netlify, etc.
-GAME_URL = "https://APNI_GAME_URL.com/hill_climb_game.html"
+GAME_URL = "https://github.com/Dinsa007/hill-climb-game"
 
 # =============================================
 bot = telebot.TeleBot(BOT_TOKEN)
